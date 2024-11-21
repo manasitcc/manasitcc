@@ -1,7 +1,6 @@
 ## Hi 👋 Manas
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manasitcc&column=3&margin-w=15&margin-h=15)](https://github.com/manasitcc/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=manasitcc&theme=kimbie_dark)](https://github.com/manasitcc/github-profile-trophy)
 
 
 <!--
