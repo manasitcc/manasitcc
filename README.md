@@ -1,6 +1,8 @@
 ## Hi 👋 Manas
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manasitcc&theme=onedark)](https://github.com/manasitcc/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manasitcc&column=3&margin-w=15&margin-h=15)](https://github.com/manasitcc/github-profile-trophy)
+
+
 
 <!--
 **manasitcc/manasitcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
