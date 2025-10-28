@@ -2,6 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manasitcc&theme=kimbie_dark)](https://github.com/manasitcc/github-profile-trophy)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manassoumya&show_icons=true&theme=radical)
 
 <!--
 **manasitcc/manasitcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
